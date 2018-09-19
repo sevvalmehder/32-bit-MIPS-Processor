@@ -1,6 +1,6 @@
 # 32-bit MIPS Processor
 
-32-bit MIPS processor fully supporting all core instructions on [green card at MIPS book (https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf).
+32-bit MIPS processor fully supporting all core instructions on [green card at MIPS book](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf).
 
 ## Introduction
 
@@ -21,7 +21,7 @@
 (j) If signal is "read from memory" and the result must write to register(lw command), the result sended to read_register module
 
 ## Method
-![Single Cycle Datapath](https://github.com/sevvalmehder/32-bit-MIPS-Processor/blob/master/Report/singleCycleDatapath.jpgg)
+![Single Cycle Datapath]https://github.com/sevvalmehder/32-bit-MIPS-Processor/blob/master/Report/singleCycleDatapath.jpg)
 
 There are 7 module:
   - Mips_core, as like a main.
