@@ -1,6 +1,7 @@
 # 32-bit MIPS Processor
 
-32-bit MIPS processor fully supporting all core instructions on [green card at MIPS book](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf).
+32-bit MIPS processor fully supporting all core instructions on [green card at MIPS book](https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf).  
+There is a quartus II project archived file named "32-bitMIPSProcessor.qar"
 
 ## Introduction
 
