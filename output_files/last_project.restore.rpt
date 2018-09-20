@@ -1,0 +1,89 @@
+Restore Archived Project report for last_project
+Thu Sep 20 00:31:13 2018
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Sep 20 00:31:13 2018 ;
+; Revision Name                   ; last_project                          ;
+; Top-level Entity Name           ; mips_core                             ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Asus/Desktop/Mehder_Sevval_151044009.qar' into the 'C:/Users/Asus/Desktop/Mehder_Sevval_151044009_restored/' directory
+Info: Generated report 'last_project.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4453 megabytes
+    Info: Processing ended: Thu Sep 20 00:31:13 2018
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++---------------------------------------------------------+
+; Files Restored                                          ;
++---------------------------------------------------------+
+; File Name                                               ;
++---------------------------------------------------------+
+; ALU32bit.v                                              ;
+; control_unit.v                                          ;
+; db/last_project.db_info                                 ;
+; incremental_db/compiled_partitions/last_project.db_info ;
+; inst_parser.v                                           ;
+; last_project.qpf                                        ;
+; last_project.qsf                                        ;
+; mips_core.v                                             ;
+; mips_testbench.v                                        ;
+; read_data_memory.v                                      ;
+; read_instructions.v                                     ;
+; read_registers.v                                        ;
+; simulation/modelsim/data.mem                            ;
+; simulation/modelsim/instruction.mem                     ;
+; simulation/modelsim/registers.mem                       ;
+; assignment_defaults.qdf                                 ;
++---------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
